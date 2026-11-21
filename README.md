@@ -2,7 +2,7 @@
 
 ## Odoo Developer · Frontend Developer in Training
 
-I build reliable business applications with Odoo and Python, and I am expanding my skills in modern frontend development with JavaScript and React.
+I build business applications with Odoo and Python, while growing my frontend development skills with JavaScript and React.
 
 - 💼 Open to Odoo Developer and Frontend Developer opportunities
 - 🌱 Currently strengthening React, JavaScript, and practical frontend engineering skills
@@ -10,9 +10,11 @@ I build reliable business applications with Odoo and Python, and I am expanding 
 
 ## Skills
 
-**ERP & Backend:** Odoo · Python · PostgreSQL · REST APIs  
-**Frontend:** JavaScript · React · HTML · CSS  
-**Tools:** Git · GitHub · Express.js · Sequelize
+**ERP & Backend:** Odoo · XML · Python · Express.js · REST APIs  
+**Frontend:** JavaScript · TypeScript · RemixTS · React · HTML · CSS · Bootstrap
+**Databases:** PostgreSQL · MySQL
+**Tools:** Git · GitHub · Sequelize  
+**AI-Assisted Development:** ChatGPT · Claude
 
 ## Current Focus
 
