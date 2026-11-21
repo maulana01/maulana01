@@ -14,13 +14,6 @@ I build reliable business applications with Odoo and Python, and I am expanding 
 **Frontend:** JavaScript · React · HTML · CSS  
 **Tools:** Git · GitHub · Express.js · Sequelize
 
-## Featured Work
-
-- [React Portfolio](https://github.com/maulana01/react-portfolio) — Personal frontend portfolio project
-- [REST API ExpressJS Boilerplate](https://github.com/maulana01/rest_api-expressjs-boilerplate) — REST API boilerplate using Express.js and Sequelize
-- [Simple Todo App](https://github.com/maulana01/Simple-TodoApp) — A JavaScript task-management application
-- [Kalla DMS](https://github.com/JukeOdoo/kalla-dms) — Odoo development contribution
-
 ## Current Focus
 
 - Building stronger frontend projects with React
