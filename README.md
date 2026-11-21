@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Maulana 👋
 
-<!--
-**maulana01/maulana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Odoo Developer · Frontend Developer in Training
 
-Here are some ideas to get you started:
+I build reliable business applications with Odoo and Python, and I am expanding my skills in modern frontend development with JavaScript and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Open to Odoo Developer and Frontend Developer opportunities
+- 🌱 Currently strengthening React, JavaScript, and practical frontend engineering skills
+- 🤝 Interested in remote teams, business systems, and useful product experiences
+
+## Skills
+
+**ERP & Backend:** Odoo · Python · PostgreSQL · REST APIs  
+**Frontend:** JavaScript · React · HTML · CSS  
+**Tools:** Git · GitHub · Express.js · Sequelize
+
+## Featured Work
+
+- [React Portfolio](https://github.com/maulana01/react-portfolio) — Personal frontend portfolio project
+- [REST API ExpressJS Boilerplate](https://github.com/maulana01/rest_api-expressjs-boilerplate) — REST API boilerplate using Express.js and Sequelize
+- [Simple Todo App](https://github.com/maulana01/Simple-TodoApp) — A JavaScript task-management application
+- [Kalla DMS](https://github.com/JukeOdoo/kalla-dms) — Odoo development contribution
+
+## Current Focus
+
+- Building stronger frontend projects with React
+- Creating clean, usable interfaces for business applications
+- Growing as a developer across Odoo and modern web development
+
+## Let's Connect
+
+Feel free to explore my repositories or reach out through GitHub.
