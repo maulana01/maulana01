@@ -12,6 +12,7 @@ I build business applications with Odoo and Python, while growing my frontend de
 
 **ERP & Backend:** Odoo · XML · Python · Express.js · REST APIs  
 **Frontend:** JavaScript · TypeScript · RemixTS · React · HTML · CSS · Bootstrap
+
 **Databases:** PostgreSQL · MySQL
 **Tools:** Git · GitHub · Sequelize  
 **AI-Assisted Development:** ChatGPT · Claude
